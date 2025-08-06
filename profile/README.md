@@ -11,15 +11,15 @@ We creates electronics and software for makers and hobbyists. LED matrices, PCBs
 
 | Product                                                 | Shape      | Size  | LEDs | Documentation                                      | Store                                            |
 | ------------------------------------------------------- | ---------- | ----- | ---- | -------------------------------------------------- | ------------------------------------------------ |
-| [Hexagonal Matrix](./Hexagonal_leds_matrix_WS2812B/)    | Hexagonal  | 133mm | 144  | [📖 Docs](./Hexagonal_leds_matrix_WS2812B/)        | [🛒 Buy](https://www.tindie.com/products/37170/) |
-| [Round Matrix](./Round_leds_matrix_95mm_12x12_WS2812B/) | Circular   | 95mm  | 112  | [📖 Docs](./Round_leds_matrix_95mm_12x12_WS2812B/) | [🛒 Buy](https://www.tindie.com/products/25337/) |
-| [Triangle Matrix](./Triangle_leds_matrix_WS2812B/)      | Triangular | 133mm | 144  | [📖 Docs](./Triangle_leds_matrix_WS2812B/)         | [🛒 Buy](https://www.tindie.com/products/37169/) |
+| [Hexagonal Matrix](https://github.com/FoxLabsFr/Hexagonal_leds_matrix_WS2812B)    | Hexagonal  | 133mm | 144  | [📖 Docs](https://github.com/FoxLabsFr/Hexagonal_leds_matrix_WS2812B)        | [🛒 Buy](https://www.tindie.com/products/37170/) |
+| [Round Matrix](https://github.com/FoxLabsFr/Round_leds_matrix_95mm_12x12_WS2812B) | Circular   | 95mm  | 112  | [📖 Docs](https://github.com/FoxLabsFr/Round_leds_matrix_95mm_12x12_WS2812B) | [🛒 Buy](https://www.tindie.com/products/25337/) |
+| [Triangle Matrix](https://github.com/FoxLabsFr/Triangle_leds_matrix_WS2812B)      | Triangular | 133mm | 144  | [📖 Docs](https://github.com/FoxLabsFr/Triangle_leds_matrix_WS2812B)         | [🛒 Buy](https://www.tindie.com/products/37169/) |
 
 ### Accessories
 
 | Product                                           | Description                            | Documentation                           | Store                                            |
 | ------------------------------------------------- | -------------------------------------- | --------------------------------------- | ------------------------------------------------ |
-| [Protection Module](./Protection_module_WS2812B/) | WS2812B protection with level shifting | [📖 Docs](./Protection_module_WS2812B/) | [🛒 Buy](https://www.tindie.com/products/27407/) |
+| [Protection Module](https://github.com/FoxLabsFr/Protection_module_WS2812B) | WS2812B protection with level shifting | [📖 Docs](https://github.com/FoxLabsFr/Protection_module_WS2812B) | [🛒 Buy](https://www.tindie.com/products/27407/) |
 
 ## 💻 Software Libraries
 
