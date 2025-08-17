@@ -28,6 +28,7 @@ We creates electronics and software for makers and hobbyists. LED matrices, PCBs
 | Library        | Description                                                                                                            | GitHub                                             |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | **ServoGroup** | Arduino library for controlling multiple servos with smooth interpolation. Supports I2C (PCA9685) and direct PWM modes | [🐙 Repo](https://github.com/FoxLabsFr/ServoGroup) |
+| **MatrixController** | An Arduino library for controlling NeoPixel LED matrix displays, using simple images, optional blending. | [🐙 Repo](https://github.com/FoxLabsFr/MatrixController) |
 
 ---
 
