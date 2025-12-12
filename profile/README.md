@@ -2,30 +2,33 @@
 
 [![FoxLabs](https://img.shields.io/badge/FoxLabs-Electronics%20Solutions-blue?style=for-the-badge&logo=github)](https://shop.foxlabs.fr/)
 [![Tindie](https://img.shields.io/badge/Tindie-Store-orange?style=for-the-badge&logo=tindie)](https://www.tindie.com/stores/foxlabs/)
+[![Documentation](https://img.shields.io/badge/Documentation-Wiki-green?style=for-the-badge&logo=readthedocs)](https://wiki.foxlabs.fr/)
 
 We creates electronics and software for makers and hobbyists. LED matrices, PCBs, components, and code that help bring creative projects to life.
+
+📖 **All product documentation is now available at [wiki.foxlabs.fr](https://wiki.foxlabs.fr/)**
 
 ## 🛍️ Product Catalog
 
 ### LED Matrices
 
-| Product                                                 | Shape      | Size  | LEDs | Docs                                               | Shop                                            | Tindie                                            |
-| ------------------------------------------------------- | ---------- | ----- | ---- | -------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| [Hexagonal Matrix](https://github.com/FoxLabsFr/Hexagonal_leds_matrix_WS2812B)    | Hexagonal  | 133mm | 144  | [📖 Docs](https://github.com/FoxLabsFr/Hexagonal_leds_matrix_WS2812B)        | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/26-matrice-de-leds-triangle-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/37170/) |
-| [Round Matrix](https://github.com/FoxLabsFr/Round_leds_matrix_95mm_12x12_WS2812B) | Circular   | 95mm  | 112  | [📖 Docs](https://github.com/FoxLabsFr/Round_leds_matrix_95mm_12x12_WS2812B) | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/10-matrice-de-leds-ronde-95mm-112-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/25337/) |
-| [Triangle Matrix](https://github.com/FoxLabsFr/Triangle_leds_matrix_WS2812B)      | Triangular | 133mm | 144  | [📖 Docs](https://github.com/FoxLabsFr/Triangle_leds_matrix_WS2812B)         | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/25-matrice-de-leds-triangle-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/37169/) |
+| Product           | Shape      | Size  | LEDs | Shop                                            | Tindie                                            |
+| ----------------- | ---------- | ----- | ---- | ----------------------------------------------- | ------------------------------------------------- |
+| Hexagonal Matrix  | Hexagonal  | 133mm | 144  | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/26-matrice-de-leds-triangle-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/37170/) |
+| Round Matrix      | Circular   | 95mm  | 112  | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/10-matrice-de-leds-ronde-95mm-112-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/25337/) |
+| Triangle Matrix   | Triangular | 133mm | 144  | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/25-matrice-de-leds-triangle-ws2812b-bw.html) | [🛒 Tindie](https://www.tindie.com/products/37169/) |
 
 ### Accessories
 
-| Product                                           | Description                            | Docs                                    | Shop                                            | Tindie                                            |
-| ------------------------------------------------- | -------------------------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| [Protection Module](https://github.com/FoxLabsFr/Protection_module_WS2812B) | WS2812B protection with level shifting | [📖 Docs](https://github.com/FoxLabsFr/Protection_module_WS2812B) | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/24-module-protection-leds-ws2812b.html) | [🛒 Tindie](https://www.tindie.com/products/27407/) |
+| Product            | Description                            | Shop                                            | Tindie                                            |
+| ------------------ | -------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| Protection Module  | WS2812B protection with level shifting | [🛒 Shop](https://shop.foxlabs.fr/fr/electronique/24-module-protection-leds-ws2812b.html) | [🛒 Tindie](https://www.tindie.com/products/27407/) |
 
 ### Power Management
 
-| Product                                           | Description                            | Docs                                    | Shop                                            | Tindie                                            |
-| ------------------------------------------------- | -------------------------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| [I2C Power Management Board](https://github.com/FoxLabsFr/I2C_Power_Management_Board_INA238_PCA9538) | INA238 power monitor & PCA9538 I/O expander | [📖 Docs](https://github.com/FoxLabsFr/I2C_Power_Management_Board_INA238_PCA9538) | [🛒 Shop](https://shop.foxlabs.fr/fr/home/29-module-alimentation-i2c.html) | [🛒 Tindie](https://www.tindie.com/products/40201/) |
+| Product                      | Description                              | Shop                                            | Tindie                                            |
+| ---------------------------- | ---------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| I2C Power Management Board   | INA238 power monitor & PCA9538 I/O expander | [🛒 Shop](https://shop.foxlabs.fr/fr/home/29-module-alimentation-i2c.html) | [🛒 Tindie](https://www.tindie.com/products/40201/) |
 
 ## 💻 Software Libraries
 
